@@ -1,0 +1,10 @@
+# package dependencies
+node_modules/
+
+package-lock.json
+
+# screenshots
+cypress/screenshots
+
+# video recording
+cypress/videos
